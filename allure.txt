@@ -1,4 +1,0 @@
-dependency:
-allure-cucumber5-jvm-2.13.6
-allure-junit5-2.13.6
-cucumber-java-5.7.0
